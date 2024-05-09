@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
-  DTS:ObjectName="DESKTOP-AR6ETSI.AdventureWorks2014"
+  DTS:ObjectName="Source Database"
   DTS:DTSID="{11B632CD-F360-4588-AAFC-8B8DC57C74D9}"
   DTS:CreationName="OLEDB">
   <DTS:ObjectData>
